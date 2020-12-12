@@ -110,4 +110,4 @@ After finishing your required elements, you can push your work further. These go
 There are two possible ways to submit this project to Canvas. Lambda Staff will let you know which one applies:
 
 1. Submitting a pull request to merge `<firstName-lastName>` (or `stretch` if you finished any stretch goals) branch into `main`.
-2. Setting up your fork settings on Github to submit via Codegrade by pushing commits to your `<firstName-lastName>` branch.
+2. Setting up your fork settings on Github to submit via Codegrade by pushing commits to your `<firstName-lastName>` branch
